@@ -48,6 +48,8 @@ Business Dashboard
 * **Credit Rating Calibration:** Risk grades show severe deterioration in higher tiers, culminating in a **98.44% default rate** for Grade G loans—where interest pricing fails to cover expected losses.
 * **Homeownership Impact:** **Renters** present a **31.57% default rate**, whereas outright homeowners exhibit superior repayment discipline with a **7.47% default rate**.
 
+[View the Credit Risk Performance Presentation](Credit/Credit%20Risk%20&%20Financial%20Performance)
+
 ---
 
 ## Recommendations
