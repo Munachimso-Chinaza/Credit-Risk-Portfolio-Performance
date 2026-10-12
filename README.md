@@ -19,7 +19,7 @@ This project presents a comprehensive evaluation of retail loan default risk, bo
 * **Data Visualization:** Matplotlib, Seaborn, Tableau.
 
 Python Script
-[![Credit Risk](Credit/Credit Risk Script.png)](
+[![Credit Risk](Credit/Credit Risk Script.png)](https://github.com/Munachimso-Chinaza/Credit-Risk-Portfolio-Performance/blob/main/Credit/Credit%20Risk.ipynb)
 
 ---
 
