@@ -34,6 +34,10 @@ Python Script
 4. **Exploratory Data Analysis (EDA):** Aggregated metrics using SQL and Pandas to evaluate default probabilities across loan purposes, risk grades, income burdens, and homeownership statuses.
 5. **Dashboard Development:** Designed a multi-quadrant executive dashboard in Tableau incorporating interactive filters for age groups, loan grades, and default status labels.
 
+Business Dashboard
+
+[![Dashboard](Credit%20Risk%20Dashboard.png)](https://public.tableau.com/views/CreditRiskLoanPerformance/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ---
 
 ## Key Insights
