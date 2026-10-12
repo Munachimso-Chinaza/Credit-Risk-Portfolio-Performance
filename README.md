@@ -16,8 +16,7 @@ This project presents a comprehensive evaluation of retail loan default risk, bo
 
 * **Programming Language:** Python
 * **Data Manipulation & Analysis:** Pandas, NumPy
-* **Data Visualization:** Matplotlib, Seaborn
-* **Interactive Dashboard:** Tableau
+* **Data Visualization:** Matplotlib, Seaborn, Tableau.
 
 ---
 
