@@ -18,6 +18,9 @@ This project presents a comprehensive evaluation of retail loan default risk, bo
 * **Data Manipulation & Analysis:** Pandas, NumPy
 * **Data Visualization:** Matplotlib, Seaborn, Tableau.
 
+Python Script
+[![Credit Risk](Credit/Credit Risk Script.png)](
+
 ---
 
 ## Project Workflows
