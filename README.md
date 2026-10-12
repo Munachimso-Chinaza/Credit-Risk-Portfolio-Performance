@@ -36,7 +36,7 @@ Python Script
 
 Business Dashboard
 
-[![Dashboard](Credit%20Risk%20Dashboard.png)](https://public.tableau.com/views/CreditRiskLoanPerformance/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Dashboard](Credit/Credit%20Risk%20Dashboard.png)](https://public.tableau.com/views/CreditRiskLoanPerformance/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
